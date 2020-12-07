@@ -5,4 +5,6 @@ int main()
 {
     printf("Hello suixing!");
     return 0;
+    so
+    so
 }
