@@ -6,5 +6,3 @@ int main()
     printf("Hello suixing!");
     return 0;
 }
-
-对远端仓库的修改
